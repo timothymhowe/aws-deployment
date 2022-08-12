@@ -1,0 +1,3 @@
+[submodule "lib/xkcd-font"]
+	path = lib/xkcd-font
+	url = git@github.com:ipython/xkcd-font.git
